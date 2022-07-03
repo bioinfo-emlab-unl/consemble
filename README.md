@@ -1,4 +1,4 @@
-# ConSemble-v1
+# ConSemble
 A consensus-based ensemble approach to improve transcriptome assembly
 
 (consemble.pl: last updated on January 8, 2019)
